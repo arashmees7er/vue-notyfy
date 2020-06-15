@@ -1,1 +1,1 @@
-# vue-notyfy
+notification toast for vue js
